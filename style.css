@@ -1,0 +1,201 @@
+ @media only screen and (min-width : 160px) and (max-width : 840px) {
+
+   header {
+     display: flex;
+     justify-content: space-around;
+     background-color: coral;
+     color: white;
+     height: 170px;
+   }
+
+   nav {
+     background-color: rgb(245, 207, 117);
+     color: black;
+     width: 400px;
+     text-align: center;
+   }
+
+   .name {
+     display: block;
+     margin-top: 20px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   }
+
+   .me {
+     font-size: 30px;
+   }
+
+   .orange-color {
+     color: coral;
+     font-size: 30px;
+   }
+
+   .aboutme {
+     margin-top: 20px;
+   }
+
+   hr {
+     border: 1px solid coral;
+   }
+
+   .experience {
+     font-size: 30px;
+   }
+
+   .first-project {
+     display: flex;
+     margin: 10px;  
+    }
+
+   .second-project {
+     display: flex;
+     margin: 15px;  
+   }
+
+   .third-project {
+     display: flex;
+     margin: 15px;  
+   }
+
+   .movie {
+    margin-left: 25px;
+   }
+   .calculator {
+    margin-left: 20px;
+   }
+   .tic {
+    margin-left: 30px;
+   }
+   .education {
+     font-size: 30px;
+     margin-top: 10px;
+   }
+
+   .web {
+     display: flex;
+     justify-content: space-between;
+   }
+
+   .ballet {
+     display: flex;
+     justify-content: space-between;
+     margin-top: 10px;
+   }
+
+   .cource {
+     margin-top: 10px;
+   }
+
+   .skill {
+     font-size: 30px;
+   }
+
+   .skills {
+     background-color: rgb(245, 207, 117);
+     ;
+   }
+
+ }
+
+ @media only screen and (min-width : 840px) and (max-width : 1640px) {
+  
+  .container {
+   width: 70%;
+   margin: auto;
+  }
+  header {
+    display: flex;
+    justify-content: space-around;
+    background-color: coral;
+    color: white;
+    height: 170px;
+  }
+
+  nav {
+    background-color: rgb(245, 207, 117);
+    color: black;
+    width: 400px;
+    text-align: center;
+  }
+
+  .name {
+    display: block;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  .me {
+    font-size: 30px;
+  }
+
+  .orange-color {
+    color: coral;
+    font-size: 30px;
+  }
+
+  .aboutme {
+    margin-top: 20px;
+  }
+
+  hr {
+    border: 1px solid coral;
+  }
+
+  .experience {
+    font-size: 30px;
+  }
+
+  .first-project {
+    display: flex;
+    margin: 10px;  
+   }
+
+  .second-project {
+    display: flex;
+    display: flex;
+    margin: 15px;  
+  }
+
+  .third-project {
+    display: flex;
+    margin: 15px;  
+  }
+
+  .movie {
+   margin-left: 25px;
+  }
+  .calculator {
+   margin-left: 10px;
+  }
+  .tic {
+   margin-left: 30px;
+  }
+  .education {
+    font-size: 30px;
+    margin-top: 10px;
+  }
+
+  .web {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .ballet {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+
+  .cource {
+    margin-top: 10px;
+  }
+
+  .skill {
+    font-size: 30px;
+  }
+
+  .skills {
+    background-color: rgb(245, 207, 117);
+    ;
+  }
+ }
